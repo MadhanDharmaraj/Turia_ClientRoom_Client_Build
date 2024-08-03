@@ -1,2 +1,0 @@
-(this["webpackJsonpvuexy-react-admin-dashboard"]=this["webpackJsonpvuexy-react-admin-dashboard"]||[]).push([[233],{1398:function(e,a,c){"use strict";c.r(a);var s=c(899),d=c(14),i=(c(737),c(743),c(3));a.default=function(){return Object(i.jsx)("div",{className:"invoice-add-wrapper",children:Object(i.jsx)(d.ib,{className:"invoice-add",children:Object(i.jsx)(d.B,{xl:12,md:12,sm:12,children:Object(i.jsx)(s.a,{})})})})}}}]);
-//# sourceMappingURL=233.f0354e18.chunk.js.map
