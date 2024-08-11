@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 jobs:
   build:
-    runs-on: [self-hosted, turia-prod]
+    runs-on: self-hosted
     steps:
     
     - name: Use Node.js ${{ matrix.node-version }}
